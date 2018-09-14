@@ -1,0 +1,10 @@
+[allmachines]
+ansiblenode1
+
+
+ansiblenode1
+ansiblenode2
+
+[allnodes]
+ansiblenode1
+ansiblenode2
